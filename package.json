@@ -1,7 +1,7 @@
 {
   "name": "is-punctuation",
   "description": "Returns true if the given string is punctuation characters.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "homepage": "https://github.com/jonschlinkert/is-punctuation",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "repository": "jonschlinkert/is-punctuation",
@@ -20,7 +20,7 @@
     "test": "mocha"
   },
   "dependencies": {
-    "punctuation-regex": "^0.1.0"
+    "punctuation-regex": "^0.2.0"
   },
   "devDependencies": {
     "gulp-format-md": "^0.1.11",
