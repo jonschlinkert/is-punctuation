@@ -39,15 +39,19 @@
     "plugins": [
       "gulp-format-md"
     ],
-    "lint": {
-      "reflinks": true
-    },
     "related": {
-      "list": []
+      "list": [
+        "is-glob",
+        "is-extglob",
+        "punctuation-regex"
+      ]
     },
     "reflinks": [
       "verb",
       "verb-generate-readme"
-    ]
+    ],
+    "lint": {
+      "reflinks": true
+    }
   }
 }

@@ -24,6 +24,12 @@ console.log(isPunctuation('foo'));
 
 ## About
 
+### Related projects
+
+* [is-extglob](https://www.npmjs.com/package/is-extglob): Returns true if a string has an extglob. | [homepage](https://github.com/jonschlinkert/is-extglob "Returns true if a string has an extglob.")
+* [is-glob](https://www.npmjs.com/package/is-glob): Returns `true` if the given string looks like a glob pattern or an extglob pattern… [more](https://github.com/jonschlinkert/is-glob) | [homepage](https://github.com/jonschlinkert/is-glob "Returns `true` if the given string looks like a glob pattern or an extglob pattern. This makes it easy to create code that only uses external modules like node-glob when necessary, resulting in much faster code execution and initialization time, and a bet")
+* [punctuation-regex](https://www.npmjs.com/package/punctuation-regex): Regular expression for matching punctuation characters. | [homepage](https://github.com/regexhq/punctuation-regex "Regular expression for matching punctuation characters.")
+
 ### Contributing
 
 Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](../../issues/new).
